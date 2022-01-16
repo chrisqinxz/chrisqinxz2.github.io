@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Echospace @ UW</title>
+    <link>https://chrisqinxz.github.io/</link>
+      <atom:link href="https://chrisqinxz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Echospace @ UW</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://chrisqinxz.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_3.png</url>
+      <title>Echospace @ UW</title>
+      <link>https://chrisqinxz.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning in fisheries acoustics</title>
+      <link>https://chrisqinxz.github.io/project/2021-hake-workflow/</link>
+      <pubDate>Sat, 01 May 2021 17:02:36 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/project/2021-hake-workflow/</guid>
+      <description>&lt;p&gt;Active acoustic data collected with scientific echosounders from acoustic surveys have become essential for stock assessment in fisheries resources management. Over the past three decades, a wide suite of physics-based acoustic scattering models were developed to allow translating acoustic observations to biological quantities, such as biomass and abundance, for different marine organisms. In parallel, quantitative scientific echosounders have progressed from specialized equipment to one of the standard instruments on fisheries survey vessels.&lt;/p&gt;
+&lt;p&gt;To take full advantage of these large and complex new datasets, in this project we aim to combine the development of machine learning methodology with a cloud-based workflow to accelerate the extraction of biological information from fisheries acoustic data. This project is in close collaboration with the 
+&lt;a href=&#34;https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/fisheries-engineering-and-acoustic-technologies-team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fisheries Engineering and Acoustics Technology (FEAT) team&lt;/a&gt; at the NOAA Fisheries 
+&lt;a href=&#34;https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northwest Fisheries science center (NWFSC)&lt;/a&gt; and uses data collected in the past 20 years off the west coast of the U.S. from the 
+&lt;a href=&#34;https://www.fisheries.noaa.gov/west-coast/science-data/joint-us-canada-integrated-ecosystem-and-pacific-hake-acoustic-trawl-survey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joint U.S.-Canada Integrated Ecosystem and Pacific Hake Acoustic-Trawl Survey&lt;/a&gt; (aka the &amp;ldquo;Hake survey&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding agency&lt;/strong&gt;: NOAA Fisheries&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scalable, cloud-native processing of water column sonar data</title>
+      <link>https://chrisqinxz.github.io/project/2021-cloud-workflows/</link>
+      <pubDate>Sun, 24 Oct 2021 16:56:36 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/project/2021-cloud-workflows/</guid>
+      <description>&lt;p&gt;Scientists commonly use active sonar systems to collect data about mid-trophic level animals like zooplankton and small fish, which play an important role in the marine ecosystems. Echosounders, or fish-finders, are high-frequency sonar systems that emit pulses of sound and record the reflections from animals, the seabed, and other objects. These instruments have been proven to be more efficient and effective for collecting data over a large survey area or a long time period than many other sampling methods, such as underwater imaging and net trawls. This technology has been widely adopted by the ocean science and commercial fishing communities and more recently has been integrated with autonomous vehicles, resulting in a massive amount of data. However, these datasets can be difficult to analyze and are often underutilized. We will address this issue by adopting and advancing data standards, developing a streamlined data processing workflow, and integrating open-source software tools that capitalize on recent advancements in cloud computing technologies to efficiently transform large quantities of ocean sonar data into information that is useful for exploring, monitoring, and managing living marine resources.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding agency&lt;/strong&gt;: NOAA Office of Ocean Exploration and Research 
+&lt;a href=&#34;https://oceanexplorer.noaa.gov/news/oer-updates/2021/fy21-ffo-schedule.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FY2021 grants&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADCP-equipped underwater glider as a distributed biological sensing tool</title>
+      <link>https://chrisqinxz.github.io/project/2020-glider-adcp/</link>
+      <pubDate>Tue, 01 Sep 2020 17:02:36 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/project/2020-glider-adcp/</guid>
+      <description>&lt;p&gt;Mid-trophic level animals, such as zooplankton and fish, are keystone organisms in the marine ecosystem and play a critical role in the economy and our food supply chain. However, our understanding of these animals, particularly those in the pelagic zones, is severely limited, due to the lack of tools that cab . This gap of knowledge has greatly impeded our ability in making informed policy decisions to support sustainable resource management. The root cause of this problem is the lack of tools that can collect information about these animals at large temporal and spatial scales comparable to other physical, chemical, and lower-trophic biological (e.g., chlorophyll) oceanographic variables.&lt;/p&gt;
+&lt;p&gt;Gliders have provided unparalleled mobile, persistent access to deep, remote ocean environments at a fraction of the cost of a research vessel. Taking advantage of this unique capability, in this project we aim to develop sampling strategies and data analysis methodologies to enable distributed long-term observation of mid-trophic marine organisms using 
+&lt;a href=&#34;https://apl.uw.edu/project/project.php?id=seaglider_auv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seagliders&lt;/a&gt; equipped with acoustic Doppler current profilers (ADCPs).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding agency&lt;/strong&gt;: NOAA Office of Ocean Exploration and Research 
+&lt;a href=&#34;https://oceanexplorer.noaa.gov/news/oer-updates/2020/fy20-ffo-schedule.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FY2020 grants&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Echopype</title>
+      <link>https://chrisqinxz.github.io/software/echopype/</link>
+      <pubDate>Sun, 01 Nov 2020 14:50:00 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/software/echopype/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;code&gt;Echopype&lt;/code&gt;&lt;/strong&gt; is an open-source Python package aimed at
+
+&lt;a href=&#34;https://echopype.readthedocs.io/en/latest/why.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;enhancing the interoperability and scalability&lt;/a&gt;
+in processing ocean sonar data for biological information.&lt;/p&gt;
+&lt;p&gt;I started building this package in early 2018 when I couldn&amp;rsquo;t find an affordable tool that
+allow easy access and manipulation of echosounder data collected by
+different sonar models.&lt;/p&gt;
+&lt;p&gt;For the latest updates, check out our repo at: 
+&lt;a href=&#34;https://github.com/OSOceanAcoustics/echopype&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/OSOceanAcoustics/echopype&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out my talk at SciPy 2019 that discussed the goals and philosophy of echopype:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/qboH7MyHrpU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pattern discovery from long-term echosounder time series</title>
+      <link>https://chrisqinxz.github.io/project/2019-ooi-mtx-decomp/</link>
+      <pubDate>Tue, 01 Jan 2019 14:50:00 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/project/2019-ooi-mtx-decomp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding agency&lt;/strong&gt;: National Science Foundation 
+&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1849930&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Award #1849930&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Echo Statistics</title>
+      <link>https://chrisqinxz.github.io/software/echo-stat-tutorial/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/software/echo-stat-tutorial/</guid>
+      <description>&lt;p&gt;For a 2018 tutorial I published with
+
+&lt;a href=&#34;https://www2.whoi.edu/staff/tstanton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tim Stanton&lt;/a&gt; and
+
+&lt;a href=&#34;https://www.linkedin.com/in/kyungmin-baik-098156149/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kyungmin Baik&lt;/a&gt; in
+the Journal of the Acoustical Society of America (JASA):&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Echo statistics associated with discrete scatterers: A tutorial on physics-based methods&lt;/strong&gt;. JASA 144(6): 3124–3171; 
+&lt;a href=&#34;https://doi.org/10.1121/1.5052255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1121/1.5052255&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;we provided the Matlab code to reproduce all figures in two forms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a &lt;em&gt;frozen&lt;/em&gt; version archived with the paper, and&lt;/li&gt;
+&lt;li&gt;a GitHub 
+&lt;a href=&#34;https://github.com/leewujung/echo-stats-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt; minted with a 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.2458776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI from Zenodo&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This way we can keep the code &amp;ldquo;alive&amp;rdquo; on GitHub but also has a convenient snapshot of the code at the time of the tutorial publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling target search by echolocating toothed whales</title>
+      <link>https://chrisqinxz.github.io/project/2018-muri-echolocation/</link>
+      <pubDate>Mon, 01 Jan 2018 14:50:00 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/project/2018-muri-echolocation/</guid>
+      <description>&lt;p&gt;Echolocating animals effortlessly navigate, hunt, and interact with their environment, despite cluttered and noisy return signals. Blind expert human echolocators prove that this capacity does not depend exclusively on biological specializations unique to particular species. This project is an integrated component of a larger collaborative project (see funding below) focused on active sensing in echolocating marine mammals and humans. The overarching goal of the interdisciplinary team is to use both toothed whales (odontocetes) and humans as model systems to identify the neural mechanisms that extract echo-acoustic information and the brain networks that build robust, invariant representations of auditory objects in complex auditory scenes. The UW-APL component of the project involves modeling the echolocation-based target search by toothed whales as an information-seeking behavior by extending the &lt;em&gt;infotaxis&lt;/em&gt; algorithm originally formulated in moth odor tracking problems into an &lt;em&gt;active sensing&lt;/em&gt; context. In parallel with the theoretical work, we also conducted an echolocation target discrimination experiment with a harbor porpoise to guide further model development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding agency&lt;/strong&gt;: Office of Naval Research &amp;ndash; Multidisciplinary University Research Initiative (MURI)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022 CICOES postdoc fellowship program now accepting applications!</title>
+      <link>https://chrisqinxz.github.io/position/2021-12-04-cicoes-postdoc/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 -0800</pubDate>
+      <guid>https://chrisqinxz.github.io/position/2021-12-04-cicoes-postdoc/</guid>
+      <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;p&gt;Seattle, WA, USA&lt;/p&gt;
+&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
+&lt;p&gt;January 23, 2022&lt;/p&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;The Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) at the University of Washington (UW), University of Alaska Fairbanks (UAF), and Oregon State University (OSU) seeks Postdoctoral Scholars with research interests in atmospheric science, climate science, fisheries science, and/or oceanography. As a National Oceanic and Atmospheric Administration (NOAA) sponsored Cooperative Institute, CICOES promotes and facilitates collaborative research between UW, UAF, OSU and the Alaska Fisheries Science Center (AFSC), the Northwest Fisheries Science Center (NWFSC), and the Pacific Marine Environmental Laboratory (PMEL). See the 
+&lt;a href=&#34;https://cicoes.uw.edu/education/postdoc-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CICOES postdoc program page&lt;/a&gt; for detail.&lt;/p&gt;
+&lt;p&gt;We welcome researchers interested in the CICOES research themes to submit applications to work with us in Echospace! Relevant areas include but not limited to Environmental Data Science; Marine Ecosystems: Observation, Analysis, Forecasts; and Ocean and Coastal Observations.&lt;/p&gt;
+&lt;h3 id=&#34;to-apply&#34;&gt;To apply&lt;/h3&gt;
+&lt;p&gt;See the 
+&lt;a href=&#34;https://cicoes.uw.edu/wp-content/uploads/sites/21/2021/11/CICOES_Postdoctoral_Program_2022.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 application details&lt;/a&gt; for eligibility information and application instructions. Feel free to reach out to Wu-Jung Lee, Valentina Staneva, and Emilio Mayorga for discussions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beluga whale (Delphinapterus leucas) acoustic foraging behavior and applications for long term monitoring</title>
+      <link>https://chrisqinxz.github.io/publication/2021-castellote-etal-plosone-beluga-foraging-monitoring/</link>
+      <pubDate>Tue, 30 Nov 2021 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2021-castellote-etal-plosone-beluga-foraging-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Echopype: A Python library for interoperable and scalable processing of water column sonar data for biological information</title>
+      <link>https://chrisqinxz.github.io/publication/2021-lee-etal-echopype/</link>
+      <pubDate>Sat, 30 Oct 2021 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2021-lee-etal-echopype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable, interoperable processing of water column sonar data for biological applications using the echopype Python package</title>
+      <link>https://chrisqinxz.github.io/talk/202110-ioos-dmac/</link>
+      <pubDate>Thu, 28 Oct 2021 15:00:00 -0500</pubDate>
+      <guid>https://chrisqinxz.github.io/talk/202110-ioos-dmac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a toolbox for studying marine ecology using large ocean sonar datasets</title>
+      <link>https://chrisqinxz.github.io/talk/202110-uw-data-sci/</link>
+      <pubDate>Tue, 05 Oct 2021 16:30:00 -0700</pubDate>
+      <guid>https://chrisqinxz.github.io/talk/202110-uw-data-sci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact representation of temporal processes in echosounder time series via matrix decomposition</title>
+      <link>https://chrisqinxz.github.io/publication/2020-lee-staneva-jasa-tsnmf/</link>
+      <pubDate>Mon, 30 Nov 2020 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2020-lee-staneva-jasa-tsnmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Echo statistics associated with discrete scatterers: A tutorial on physics-based methods</title>
+      <link>https://chrisqinxz.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</link>
+      <pubDate>Thu, 06 Dec 2018 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroscopic observations of diel fish movements around a shallow water artificial reef using a mid-frequency horizontal-looking sonar</title>
+      <link>https://chrisqinxz.github.io/publication/2018-lee-etal-jasa-trex-fish/</link>
+      <pubDate>Tue, 18 Sep 2018 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2018-lee-etal-jasa-trex-fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tongue-driven sonar beam steering by a lingual-echolocating fruit bat</title>
+      <link>https://chrisqinxz.github.io/publication/2017-lee-etal-plosbio-rousettus-bp/</link>
+      <pubDate>Fri, 15 Dec 2017 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2017-lee-etal-plosbio-rousettus-bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://chrisqinxz.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[11/30/2021]&lt;/strong&gt; New paper &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0260485&#34;&gt;&amp;ldquo;Beluga whale (&lt;em&gt;Delphinapterus leucas&lt;/em&gt;) acoustic foraging behavior and applications for long term monitoring&amp;rdquo;&lt;/a&gt; was published in PLOS One!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/30/2021]&lt;/strong&gt; New preprint &lt;a href=&#34;https://arxiv.org/abs/2111.00187&#34;&gt;&amp;ldquo;Echopype: A Python library for interoperable and scalable processing of water column sonar data for biological information&amp;rdquo;&lt;/a&gt; was posted on arXiv!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/28/2021]&lt;/strong&gt; Emilio and Wu-Jung gave the IOOS DMAC webinar on &lt;a href=&#34;https://chrisqinxz.github.io/talk/202110-ioos-dmac&#34;&gt;&amp;ldquo;Scalable, interoperable processing of water column sonar data for biological applications using the echopype Python package&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/05/2021]&lt;/strong&gt; Wu-Jung gave the UW Data Science Seminar on &lt;a href=&#34;https://chrisqinxz.github.io/talk/202110-uw-data-sci&#34;&gt;&amp;ldquo;Building a toolbox for studying marine ecology using large ocean sonar datasets&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/21/2021]&lt;/strong&gt; Wu-Jung and Linda successfully completed this summer&amp;rsquo;s fieldwork evaluating the use of an ADCP-equipped glider as a boiological monitoring tool. Check out &lt;a href=&#34;https://oceanexplorer.noaa.gov/technology/development-partnerships/21adcp-gliders/welcome.html&#34;&gt;NOAA Exploration&amp;rsquo;s coverage of this mission&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic echo information guides flight in the big brown bat</title>
+      <link>https://chrisqinxz.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</link>
+      <pubDate>Tue, 01 Mar 2016 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics of broadband echoes: application to acoustic estimates of numerical density of fish</title>
+      <link>https://chrisqinxz.github.io/publication/2015-lee-stanton-joe-broadband/</link>
+      <pubDate>Tue, 01 Dec 2015 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2015-lee-stanton-joe-broadband/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bats regulate biosonar based on the availability of visual information</title>
+      <link>https://chrisqinxz.github.io/publication/2015-danilovich-etal-currbio-rousettus-light/</link>
+      <pubDate>Wed, 01 Jul 2015 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2015-danilovich-etal-currbio-rousettus-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can the elongated hindwing tails of fluttering moths serve as false sonar targets to divert bat attacks?</title>
+      <link>https://chrisqinxz.github.io/publication/2016-lee-moss-jasa-luna-moth/</link>
+      <pubDate>Fri, 01 May 2015 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2016-lee-moss-jasa-luna-moth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics of echoes from mixed assemblages of scatterers with different scattering amplitudes and numerical densities</title>
+      <link>https://chrisqinxz.github.io/publication/2014-lee-stanton-joe-mixed/</link>
+      <pubDate>Mon, 13 Jan 2014 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2014-lee-stanton-joe-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orientation dependence of broadband acoustic backscattering from live squid</title>
+      <link>https://chrisqinxz.github.io/publication/2012-lee-etal-jasa-squid/</link>
+      <pubDate>Fri, 01 Jun 2012 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2012-lee-etal-jasa-squid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-duration anesthetization of squid (Doryteuthis pealeii)</title>
+      <link>https://chrisqinxz.github.io/publication/2010-mooney-etal-squid-sedation/</link>
+      <pubDate>Thu, 01 Apr 2010 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2010-mooney-etal-squid-sedation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The acoustic field on the forehead of echolocating Atlantic bottlenose dolphins (Tursiops truncatus)</title>
+      <link>https://chrisqinxz.github.io/publication/2010-au-etal-jasa-tursiops-suctioncup/</link>
+      <pubDate>Mon, 01 Mar 2010 09:00:00 +0000</pubDate>
+      <guid>https://chrisqinxz.github.io/publication/2010-au-etal-jasa-tursiops-suctioncup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
