@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangzhao Chris Qin | Echospace @ UW</title>
+    <link>https://chrisqinxz.github.io/author/xiangzhao-chris-qin/</link>
+      <atom:link href="https://chrisqinxz.github.io/author/xiangzhao-chris-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangzhao Chris Qin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://chrisqinxz.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiangzhao Chris Qin</title>
+      <link>https://chrisqinxz.github.io/author/xiangzhao-chris-qin/</link>
+    </image>
+    
+  </channel>
+</rss>
